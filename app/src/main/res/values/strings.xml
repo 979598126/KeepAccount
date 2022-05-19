@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KeepAcount</string>
+    <string name="addAccount">添加账单</string>
+</resources>
